@@ -1634,3 +1634,48 @@ about:Button("刀刃球3",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Neoncat765/Neon.C-Hub-X/main/UnknownVersion"))()
 end)
 
+local UITab44 = win:Tab("『战斗勇士』",'7734068321')
+
+local about = UITab44:section("『战斗勇士』",true)
+
+about:Button("战斗勇士1",function()
+loadstring(game:HttpGet("https://paste.gg/p/anonymous/697fc3cad5f743508318cb7399e89432/files/b5923e52edab4e5c91e46b74563d0ae8/raw"))()
+end)
+
+about:Button("战斗勇士2",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/frkfx/Combat-Warriors/main/Script"))()
+end)
+
+local UITab45 = win:Tab("『背上只因剑』",'7734068321')
+
+local about = UITab45:section("『背上只因剑』",true)
+
+about:Button("背上只因剑1",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0SwordWarriors"))()
+end)
+
+about:Button("背上只因剑2",function()
+loadstring(game:HttpGet(('https://gist.githubusercontent.com/blox-hub-roblox/021bad62bbc6a0adc4ba4e625f9ad7df/raw/c89af6e1acf587d09e4ce4bc7510e7100e0c0065/swordWarrior.lua'),true))()
+end)
+
+local UITab46 = win:Tab("『彩虹朋友』",'7734068321')
+
+local about = UITab46:section("『彩虹朋友』",true)
+
+about:Button("彩虹朋友1",function()
+loadstring(game:HttpGet("https://pastefy.app/XoNv04vR/raw"))()
+end)
+
+about:Button("彩虹朋友2",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JNHHGaming/Rainbow-Friends/main/Rainbow%20Friends"))()
+end)
+
+local UITab47 = win:Tab("『破坏者谜团2』",'7734068321')
+
+local about = UITab47:section("『破坏者谜团2』",true)
+
+about:Button("破坏者谜团2  1",function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script"),true))()
+end)
+
+
