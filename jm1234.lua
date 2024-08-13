@@ -1694,14 +1694,6 @@ about:Button("大逃脱2",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XiaoYunCN/UWU/main/%E4%BA%91%E8%84%9A%E6%9C%ACEvade.lua"))()
 end)
 
-about:Button("大逃脱3",function()
-﻿loadstring(game:HttpGet("https://raw.githubusercontent.com/XenonLUA/Xenon/main/Evade.lua"))()
-end)
-
-about:Button("大逃脱4",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
-end)
-
 local UITab49 = win:Tab("『国王遗产』",'7734068321')
 
 local about = UITab49:section("『国王遗产』",true)
