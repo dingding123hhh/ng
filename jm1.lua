@@ -1694,31 +1694,3 @@ about:Button("大逃脱3",function()
 ﻿loadstring(game:HttpGet("https://raw.githubusercontent.com/XenonLUA/Xenon/main/Evade.lua"))()
 end)
 
-about:Button("大逃脱4",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
-end)
-
-local UITab49 = win:Tab("『国王遗产』",'7734068321')
-
-local about = UITab49:section("『国王遗产』",true)
-
-about:Button("国王遗产1",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua"))()
-end)
-
-about:Button("国王遗产2",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/master/legacy"))()
-end)
-
-about:Button("国王遗产3",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hajibeza/RIPPER-HUB/main/King%20Leagacy"))()
-end)
-
-about:Button("国王遗产4",function()
-loadstring(game:HttpGet"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/KingLegacy.lua")()
-end)
-
-about:Button("国王遗产5",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xOne2/King-Legacy/main/README.md"))()
-end)
-
